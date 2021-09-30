@@ -108,7 +108,7 @@ c. Path to the classification model (e.g. ResNet model - 'path/to/model-classifi
 
 d. Path to the segmentation model (e.g. UNet model - 'path/to/model-segmentation-folder/model_in_h5_format.h5') to create segmentation masks for images containing LA.
 
-Notes: 
+Notes: \
 i. Assumes the parent directory (a. above) contains the directory DATA_DESTINATION_FOLDER_NAME = 'Data_Quality_Control_LAV' where the numpy arrays of the rigid body transformation and warped segmentation masks were saved. \
 ii. The results of this program are table files (\*.csv and \*.xlsx) containing to columns namely, label (actual) dice score 'Label_Seg_Quality' and the predicted dice score 'Pred_Seg_Quality'. The content of the two files are the same except that one is a csv file and the other is an Excel file. These two files are saved in a newly created folder 'Results_Est_QC_LAV' in the parent directory. 
 
@@ -123,7 +123,7 @@ It assumes that the user has defined the paths to the following directories:
 
 a. - d. Same as paths defined in (a. - d.) in (4.) above. 
 
-Notes: 
+Notes: \
 i. Assumes the parent directory (a. above) contains the file measurements_csv = 'data_output_variable_table.csv' - a csv file that contains the ground truths with two columns namely, patient_id (name of patient e.g. Patient_0001, Patient_0002, etc.) and LAV_Vol (LAV ground truth). \
 ii. The results of this program are table files (\*.csv and \*.xlsx) containing to columns namely: 
 
