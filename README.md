@@ -1,4 +1,4 @@
-Atrial Volume Estimation with Quality Control for Cardiac CT Images using Deep Learning
+A Generalisable Framework for Atrial Volume Estimation for Cardiac CT Images using Deep Learning
 ============
 
 These codes are the outcome of the following paper (currently under review with JACC: Cardiovascular Imaging): M. Abdulkareem  et. al., 'A Generalisable Framework for Atrial Volume Estimation for Cardiac CT Images using Deep Learning', 2021.  
