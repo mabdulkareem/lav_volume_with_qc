@@ -1,7 +1,7 @@
 A Generalisable Framework for Atrial Volume Estimation for Cardiac CT Images using Deep Learning
 ============
 
-These codes are the outcome of the following paper (submitted and currently under review): M. Abdulkareem  et. al., 'A Generalisable Framework for Atrial Volume Estimation for Cardiac CT Images using Deep Learning', 2021.  
+These codes are the outcome of the following paper: Abdulkareem M, Brahier MS, Zou F, Taylor A, Thomaides A, Bergquist PJ, Srichai MB, Lee AM, Vargas JD and Petersen SE (2022) Generalizable Framework for Atrial Volume Estimation for Cardiac CT Images Using Deep Learning With Quality Control Assessment. Front. Cardiovasc. Med. 9:822269. doi: 10.3389/fcvm.2022.822269.  
 
 The structure of this repository is: 
 
