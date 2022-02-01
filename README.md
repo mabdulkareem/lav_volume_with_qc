@@ -2,6 +2,7 @@ A Generalisable Framework for Atrial Volume Estimation for Cardiac CT Images usi
 ============
 
 Abdulkareem M, Brahier MS, Zou F, et. al. (2022) Generalizable Framework for Atrial Volume Estimation for Cardiac CT Images Using Deep Learning With Quality Control Assessment. Front. Cardiovasc. Med. 9:822269. doi: 10.3389/fcvm.2022.822269.
+(https://www.frontiersin.org/articles/10.3389/fcvm.2022.822269/full)
 
 These codes are the outcome of the following paper: Abdulkareem M, Brahier MS, Zou F, Taylor A, Thomaides A, Bergquist PJ, Srichai MB, Lee AM, Vargas JD and Petersen SE (2022) Generalizable Framework for Atrial Volume Estimation for Cardiac CT Images Using Deep Learning With Quality Control Assessment. Front. Cardiovasc. Med. 9:822269. doi: 10.3389/fcvm.2022.822269.  
 
@@ -147,3 +148,4 @@ That creates a new file 'results_flagged.csv' in the 'Results_Est_Vol_LAV_withQC
 
 Reference: 
 Abdulkareem M, Brahier MS, Zou F, et. al. (2022) Generalizable Framework for Atrial Volume Estimation for Cardiac CT Images Using Deep Learning With Quality Control Assessment. Front. Cardiovasc. Med. 9:822269. doi: 10.3389/fcvm.2022.822269.
+(https://www.frontiersin.org/articles/10.3389/fcvm.2022.822269/full)
